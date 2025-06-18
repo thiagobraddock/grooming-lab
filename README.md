@@ -2,6 +2,8 @@
 
 Este repositório foi criado para demonstrar o uso de **GPTs personalizados integrados ao GitHub**, com foco no **refinamento de issues técnicas** utilizando inteligência artificial.
 
+[LINK DO GPT AQUI](https://chatgpt.com/g/g-68505748db5881919b91f6b22bf02c58-groombot)
+
 ## 💡 Objetivo
 
 Prototipar e demonstrar um agente de IA que ajude times ágeis a:
